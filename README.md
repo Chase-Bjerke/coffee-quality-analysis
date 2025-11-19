@@ -23,7 +23,7 @@ Once downloaded, place the files in a local `data/` folder to run the scripts as
 
 ## Tableau Storyboard  
 Explore the final insights in the published Tableau storyboard:  
-https://public.tableau.com/views/GlobalCoffeeQualityAnalysis/GlobalCoffeeQuality?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/chase.bjerke/viz/GlobalCoffeeQualityAnalysis/GlobalCoffeeQuality?publish=yes
 > _Note: This storyboard highlights key results and visuals. Intermediate steps and exploratory analysis are documented in the scripts and portfolio case study._
 
 ---
